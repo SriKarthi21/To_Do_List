@@ -1,0 +1,30 @@
+
+.error{
+  width:600px;
+  text-align:center;
+  margin: 0 auto;
+  font-size:1.3em;
+}
+
+.routerlink {
+  color:white;
+  text-decoration: none;
+  margin:10px;
+}
+  
+.App{
+  margin:0;
+  background-color: black;
+  height: 100vh;
+}
+
+body{
+  margin:0px;
+}
+.closeNote{
+  background-color:rgb(255,240,245);
+width:4px;
+}
+.editnote{
+  color:white
+}
