@@ -14,7 +14,7 @@ As you are aware, Keep-Note is a web application that allows users to maintain n
 - Stage 5: Style the Keep-Note application using modern CSS techniques.​
 - Stage 6: Develop an interactive form with validation to add new notes.​
 - Stage 7: Build a complex form with validation in the Keep-Note application.​
-- Stage 8: Style the Keep-Note application using Material design\*
+- Stage 8: Style the Keep-Note application using Material design\* changes
 - **Stage 9: Enable navigation in the Keep-Note application.**
 
 In this sprint, we are at Stage 9.​​
